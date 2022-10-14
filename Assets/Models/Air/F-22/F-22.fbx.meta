@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: b75c23f228821da419cb978d5ca6294d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_wing_L
+    100002: Back_wing_R
+    100004: Bomb_Hatch_L
+    100006: Bomb_Hatch_R
+    100008: //RootNode
+    100010: Rack
+    100012: Rack_Down
+    100014: Rocket_Door_Down_L
+    100016: Rocket_Door_Down_R
+    100018: Rocket_Door_Up_L
+    100020: Rocket_Door_Up_R
+    100022: Steer_L
+    100024: Steer_R
+    100026: Steer_Wing_Big_L
+    100028: Steer_Wing_Big_R
+    100030: Steer_Wing_L
+    100032: Steer_Wing_R
+    100034: Wheel
+    100036: Wheel_Back
+    100038: Wheel_Door
+    100040: Wheel_Door_Back_L
+    100042: Wheel_Door_Back_R
+    400000: Back_wing_L
+    400002: Back_wing_R
+    400004: Bomb_Hatch_L
+    400006: Bomb_Hatch_R
+    400008: //RootNode
+    400010: Rack
+    400012: Rack_Down
+    400014: Rocket_Door_Down_L
+    400016: Rocket_Door_Down_R
+    400018: Rocket_Door_Up_L
+    400020: Rocket_Door_Up_R
+    400022: Steer_L
+    400024: Steer_R
+    400026: Steer_Wing_Big_L
+    400028: Steer_Wing_Big_R
+    400030: Steer_Wing_L
+    400032: Steer_Wing_R
+    400034: Wheel
+    400036: Wheel_Back
+    400038: Wheel_Door
+    400040: Wheel_Door_Back_L
+    400042: Wheel_Door_Back_R
+    2100000: Base
+    2300000: Back_wing_L
+    2300002: Back_wing_R
+    2300004: Bomb_Hatch_L
+    2300006: Bomb_Hatch_R
+    2300008: //RootNode
+    2300010: Rack
+    2300012: Rack_Down
+    2300014: Rocket_Door_Down_L
+    2300016: Rocket_Door_Down_R
+    2300018: Rocket_Door_Up_L
+    2300020: Rocket_Door_Up_R
+    2300022: Steer_L
+    2300024: Steer_R
+    2300026: Steer_Wing_Big_L
+    2300028: Steer_Wing_Big_R
+    2300030: Steer_Wing_L
+    2300032: Steer_Wing_R
+    2300034: Wheel
+    2300036: Wheel_Back
+    2300038: Wheel_Door
+    2300040: Wheel_Door_Back_L
+    2300042: Wheel_Door_Back_R
+    3300000: Back_wing_L
+    3300002: Back_wing_R
+    3300004: Bomb_Hatch_L
+    3300006: Bomb_Hatch_R
+    3300008: //RootNode
+    3300010: Rack
+    3300012: Rack_Down
+    3300014: Rocket_Door_Down_L
+    3300016: Rocket_Door_Down_R
+    3300018: Rocket_Door_Up_L
+    3300020: Rocket_Door_Up_R
+    3300022: Steer_L
+    3300024: Steer_R
+    3300026: Steer_Wing_Big_L
+    3300028: Steer_Wing_Big_R
+    3300030: Steer_Wing_L
+    3300032: Steer_Wing_R
+    3300034: Wheel
+    3300036: Wheel_Back
+    3300038: Wheel_Door
+    3300040: Wheel_Door_Back_L
+    3300042: Wheel_Door_Back_R
+    4300000: Base
+    4300002: Steer_L
+    4300004: Back_wing_L
+    4300006: Steer_Wing_L
+    4300008: Steer_Wing_Big_L
+    4300010: Steer_Wing_Big_R
+    4300012: Steer_Wing_R
+    4300014: Steer_R
+    4300016: Back_wing_R
+    4300018: Rocket_Door_Up_L
+    4300020: Rocket_Door_Down_R
+    4300022: Rocket_Door_Up_R
+    4300024: Rocket_Door_Down_L
+    4300026: Bomb_Hatch_L
+    4300028: Bomb_Hatch_R
+    4300030: Rack
+    4300032: Rack_Down
+    4300034: Wheel_Door
+    4300036: Wheel
+    4300038: Wheel_Door_Back_R
+    4300040: Wheel_Back
+    4300042: Wheel_Door_Back_L
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

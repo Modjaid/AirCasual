@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: ec04f6f58eb1eac4a983d9e654bf9c89
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 105mm
+    100002: 25mm
+    100004: 45mm
+    100006: //RootNode
+    100008: Camera
+    100010: Chassis
+    100012: ChassisBack
+    100014: DoorForStuff
+    100016: DoorForWheels
+    100018: DoorForWheelsBackL
+    100020: DoorForWheelsBackR
+    100022: Engin1_1
+    100024: Engin1_2
+    100026: Engin1_3
+    100028: Engin1_4
+    100030: Glass
+    100032: Screw1_1
+    100034: Screw1_2
+    100036: Screw1_3
+    100038: Screw1_4
+    100040: Trunks
+    400000: 105mm
+    400002: 25mm
+    400004: 45mm
+    400006: //RootNode
+    400008: Camera
+    400010: Chassis
+    400012: ChassisBack
+    400014: DoorForStuff
+    400016: DoorForWheels
+    400018: DoorForWheelsBackL
+    400020: DoorForWheelsBackR
+    400022: Engin1_1
+    400024: Engin1_2
+    400026: Engin1_3
+    400028: Engin1_4
+    400030: Glass
+    400032: Screw1_1
+    400034: Screw1_2
+    400036: Screw1_3
+    400038: Screw1_4
+    400040: Trunks
+    2100000: TT_checker_2048x2048_UV_GRID.001
+    2300000: 105mm
+    2300002: 25mm
+    2300004: 45mm
+    2300006: //RootNode
+    2300008: Camera
+    2300010: Chassis
+    2300012: ChassisBack
+    2300014: DoorForStuff
+    2300016: DoorForWheels
+    2300018: DoorForWheelsBackL
+    2300020: DoorForWheelsBackR
+    2300022: Engin1_1
+    2300024: Engin1_2
+    2300026: Engin1_3
+    2300028: Engin1_4
+    2300030: Glass
+    2300032: Screw1_1
+    2300034: Screw1_2
+    2300036: Screw1_3
+    2300038: Screw1_4
+    2300040: Trunks
+    3300000: 105mm
+    3300002: 25mm
+    3300004: 45mm
+    3300006: //RootNode
+    3300008: Camera
+    3300010: Chassis
+    3300012: ChassisBack
+    3300014: DoorForStuff
+    3300016: DoorForWheels
+    3300018: DoorForWheelsBackL
+    3300020: DoorForWheelsBackR
+    3300022: Engin1_1
+    3300024: Engin1_2
+    3300026: Engin1_3
+    3300028: Engin1_4
+    3300030: Glass
+    3300032: Screw1_1
+    3300034: Screw1_2
+    3300036: Screw1_3
+    3300038: Screw1_4
+    3300040: Trunks
+    4300000: Body
+    4300002: Engin1_2
+    4300004: Screw1_2
+    4300006: DoorForWheels
+    4300008: Camera
+    4300010: DoorForStuff
+    4300012: Chassis
+    4300014: DoorForWheelsBackR
+    4300016: Engin1_1
+    4300018: Screw1_1
+    4300020: Engin1_3
+    4300022: Screw1_3
+    4300024: Engin1_4
+    4300026: Screw1_4
+    4300028: DoorForWheelsBackL
+    4300030: 25mm
+    4300032: Trunks
+    4300034: 105mm
+    4300036: 45mm
+    4300038: Glass
+    4300040: ChassisBack
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
